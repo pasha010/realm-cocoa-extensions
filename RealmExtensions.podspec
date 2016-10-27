@@ -13,9 +13,6 @@ Modifed Realm+JSON library
   lib.source           = { :git => 'https://github.com/pasha010/realm-cocoa-extensions', :tag => lib.version.to_s }
 
   lib.ios.deployment_target = '7.0'
-  lib.osx.deployment_target   = '10.9'
-  lib.watchos.deployment_target = '2.0'
-  lib.tvos.deployment_target = '9.0'
 
   lib.source_files = 'RealmExtensions/*'
 
