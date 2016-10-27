@@ -14,7 +14,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (nonnull NSArray<RLMObjectType> *)deepCopy;
 
-
 @end
 
 NS_ASSUME_NONNULL_END
