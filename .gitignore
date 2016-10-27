@@ -58,3 +58,8 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+_Pods.xcodeproj
+Example/Pods
+Example/.idea
+.idea

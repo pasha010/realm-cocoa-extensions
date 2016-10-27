@@ -1,0 +1,21 @@
+PODS:
+  - Realm (2.0.2):
+    - Realm/Headers (= 2.0.2)
+  - Realm/Headers (2.0.2)
+  - RealmExtensions (0.1.0):
+    - Realm (~> 2.0)
+
+DEPENDENCIES:
+  - RealmExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  RealmExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Realm: 0f5a194af0b7e6158b83db41b4ee1a00be7ddf1a
+  RealmExtensions: 05c8d5be1802ea6030ff8a00aa94365b915b2cfd
+
+PODFILE CHECKSUM: b69f290afcf0369477fbf1ce16fa16c11df2beed
+
+COCOAPODS: 1.1.1

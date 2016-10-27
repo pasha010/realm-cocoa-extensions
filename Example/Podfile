@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'realm-cocoa-extensions_Example' do
+  pod 'RealmExtensions', :path => '../'
+
+  target 'realm-cocoa-extensions_Tests' do
+    inherit! :search_paths
+  end
+
+end
